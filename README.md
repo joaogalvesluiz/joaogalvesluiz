@@ -1,5 +1,10 @@
 
 
+
+<!--
+**joaogalvesluiz/joaogalvesluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 <p>
   Me chamo João Guilherme, comecei na programação faz 3 anos, meu objetivo é me tornar um FullStack Developer, poder desenvolver a parte bonita e a parte que ninguém vê, pra isso  eu consumo diversos conteúdos que abrangem esses tópicos,conhecimento nunca é demais.
 </p>
@@ -12,9 +17,6 @@
 
 Fique avontade para entrar em contato por email (joaog.alvesluiz@gmail.com) ou <a href="https://www.linkedin.com/in/joao-guilherme-alves-luiz-516ab3162/">Linkedin</a>
 
-
-<!--
-**joaogalvesluiz/joaogalvesluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
