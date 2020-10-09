@@ -6,6 +6,9 @@
 
 
 <p>
+  
+  Sou estudante de programação fazem 3 anos, atualmente estou estudando Javascript, e me aprofundando em HTML5 e CSS3 para desenvolver sites mais robustos e completos, meu objetivo é me tornar um Full Stack Developer para poder desenvolver tanto a parte bonita (frontend), quanto a parte que ninguém vê (backend). 
+  
   Me chamo João Guilherme, comecei na programação faz 3 anos, meu objetivo é me tornar um FullStack Developer, poder desenvolver a parte bonita e a parte que ninguém vê, pra isso  eu consumo diversos conteúdos que abrangem esses tópicos,conhecimento nunca é demais.
 </p>
 
