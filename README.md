@@ -1,8 +1,11 @@
 ### Hi there 👋, my name is João Guilherme.
 #### I am a Frontend Developer, studying to be a Fullstack.
-![I am a Frontend Developer, studying to be a Fullstack.](https://i.pinimg.com/originals/66/ad/af/66adaf7071d6c36b30a6dbe984be48dc.jpg)
 
-I'm 24 years old, from Curitiba-PR, Brazil, I've been in the programming world for 3 years, for a long time I was studying to qualify for a job vacancy, and I achieved that, now I'm still studying to go further.
+<!--
+![I am a Frontend Developer, studying to be a Fullstack.](https://i.pinimg.com/originals/66/ad/af/66adaf7071d6c36b30a6dbe984be48dc.jpg)
+-->
+
+Im 24 years old, from Curitiba-PR, Brazil, I've been in the programming world for 3 years, for a long time I was studying to qualify for a job vacancy, and I achieved that, now I'm still studying to go further.
 
 Skills: HTML / CSS / JS 
 
