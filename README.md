@@ -1,34 +1,17 @@
+### Hi there 👋, my name is João Guilherme.
+#### I am a Frontend Developer, studying to be a Fullstack.
+![I am a Frontend Developer, studying to be a Fullstack.](https://i.pinimg.com/originals/66/ad/af/66adaf7071d6c36b30a6dbe984be48dc.jpg)
+
+I'm 24 years old, from Curitiba-PR, Brazil, I've been in the programming world for 3 years, for a long time I was studying to qualify for a job vacancy, and I achieved that, now I'm still studying to go further.
+
+Skills: HTML / CSS / JS 
+
+- 🔭 I’m currently working on in improving my skills in creating websites, and developing the backend, to make my applications better every day. 
+- 🌱 I’m currently learning React JS, React Native 
+- 👯 I’m looking to collaborate on With committed people, and willing to discover new ways to solve problems. 
+- 🤔 I’m looking for help with React for better development. 
+- 📫 How to reach me: Send me a message on linkedin. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/joaogalvesluiz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joao-guilherme-alves-luiz-516ab3162//)  
 
-<!--
-**joaogalvesluiz/joaogalvesluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<p>
-  
-  Sou estudante de programação fazem 3 anos, atualmente estou estudando Javascript, e me aprofundando em HTML5 e CSS3 para desenvolver sites mais robustos e completos, meu objetivo é me tornar um Full Stack Developer para poder desenvolver tanto a parte bonita (frontend), quanto a parte que ninguém vê (backend). 
-  
-  Me chamo João Guilherme, comecei na programação faz 3 anos, meu objetivo é me tornar um FullStack Developer, poder desenvolver a parte bonita e a parte que ninguém vê, pra isso  eu consumo diversos conteúdos que abrangem esses tópicos,conhecimento nunca é demais.
-</p>
-
-<ul>
-  <li>Javascript</li>
-  <li>HTML5 / CSS3</li>
-  <li></li>
-</ul>
-
-Fique avontade para entrar em contato por email (joaog.alvesluiz@gmail.com) ou <a href="https://www.linkedin.com/in/joao-guilherme-alves-luiz-516ab3162/">Linkedin</a>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
