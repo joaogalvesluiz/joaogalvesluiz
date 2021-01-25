@@ -11,7 +11,7 @@ Im 24 years old, from Curitiba-PR, Brazil, I've been in the programming world fo
 Skills: HTML / CSS / JS 
 
 - 🔭 I’m currently working on in improving my skills in creating websites, and developing the backend, to make my applications better every day. 
-- 🌱 I’m currently learning React JS, React Native 
+- 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on With committed people, and willing to discover new ways to solve problems. 
 - 🤔 I’m looking for help with React for better development. 
 - 📫 How to reach me: Send me a message on linkedin. 
